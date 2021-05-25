@@ -1,0 +1,16 @@
+C:\Users\FAREED\Desktop\ContactFile\obj\Debug\net5.0\ContactFile.csprojAssemblyReference.cache
+C:\Users\FAREED\Desktop\ContactFile\obj\Debug\net5.0\ContactFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAREED\Desktop\ContactFile\obj\Debug\net5.0\ContactFile.AssemblyInfoInputs.cache
+C:\Users\FAREED\Desktop\ContactFile\obj\Debug\net5.0\ContactFile.AssemblyInfo.cs
+C:\Users\FAREED\Desktop\ContactFile\obj\Debug\net5.0\ContactFile.csproj.CoreCompileInputs.cache
+C:\Users\FAREED\Desktop\ContactFile\bin\Debug\net5.0\ContactFile.exe
+C:\Users\FAREED\Desktop\ContactFile\bin\Debug\net5.0\ContactFile.deps.json
+C:\Users\FAREED\Desktop\ContactFile\bin\Debug\net5.0\ContactFile.runtimeconfig.json
+C:\Users\FAREED\Desktop\ContactFile\bin\Debug\net5.0\ContactFile.runtimeconfig.dev.json
+C:\Users\FAREED\Desktop\ContactFile\bin\Debug\net5.0\ContactFile.dll
+C:\Users\FAREED\Desktop\ContactFile\bin\Debug\net5.0\ref\ContactFile.dll
+C:\Users\FAREED\Desktop\ContactFile\bin\Debug\net5.0\ContactFile.pdb
+C:\Users\FAREED\Desktop\ContactFile\obj\Debug\net5.0\ContactFile.dll
+C:\Users\FAREED\Desktop\ContactFile\obj\Debug\net5.0\ref\ContactFile.dll
+C:\Users\FAREED\Desktop\ContactFile\obj\Debug\net5.0\ContactFile.pdb
+C:\Users\FAREED\Desktop\ContactFile\obj\Debug\net5.0\ContactFile.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\FAREED\Desktop\ScoreListDataBase\obj\Debug\net5.0\ScoreListDataBase.csprojAssemblyReference.cache
+C:\Users\FAREED\Desktop\ScoreListDataBase\obj\Debug\net5.0\ScoreListDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAREED\Desktop\ScoreListDataBase\obj\Debug\net5.0\ScoreListDataBase.AssemblyInfoInputs.cache
+C:\Users\FAREED\Desktop\ScoreListDataBase\obj\Debug\net5.0\ScoreListDataBase.AssemblyInfo.cs
+C:\Users\FAREED\Desktop\ScoreListDataBase\obj\Debug\net5.0\ScoreListDataBase.csproj.CoreCompileInputs.cache
